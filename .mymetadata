@@ -3,7 +3,7 @@
   type="WEB"
   name="SFB"
   id="myeclipse.1568265433921"
-  context-root="/"
+  context-root="/SFB"
   j2ee-spec="6.0"
   archive="SFB.war">
   <attributes>

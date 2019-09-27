@@ -5,7 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/config"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/test"/>
-        <property name="context-root" value="/"/>
         <property name="java-output-path" value="/SFB_project/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="/SFB"/>
     </wb-module>
 </project-modules>
